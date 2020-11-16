@@ -25,3 +25,4 @@ class Admin extends CI_Model
         }
     }
 }
+//ini model
